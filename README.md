@@ -1,5 +1,15 @@
 LAN and Internet Connectivity Setup for a Residential Home Using Cisco Packet Tracer
 
+Introduction
+This project was built when my friend Annie asked me to help set up a simple, secure home network for her everyday use. She wanted all her devices across different rooms to connect smoothly to the internet, while still remaining organized and safe.
+
+To achieve this, I designed and simulated a three-room home network—covering the living room, bedroom, and office—using Cisco Packet Tracer. The network includes both wired and wireless connections, a cable modem, a wireless router, and multiple end devices such as PCs, a laptop, and a TV.
+
+The goal of this project was not just connectivity, but clarity:
+to understand how real home networks function, how devices communicate through routers and network media, and how proper configuration (DHCP, Wi-Fi security, IP addressing) ensures reliable and secure access to the internet.
+
+This simulation reflects a real-world residential network scenario, built step by step, just as it would be done in an actual home environment—only this time, safely explored and tested in Packet Tracer.
+
 Simulation Tool:
 Cisco Packet Tracer (to configure devices, assign IP addresses, and verify connectivity).
 Overview of the Project
