@@ -37,6 +37,8 @@ This project consists of a LAN-based network setup with the following devices:
 •	Cable splitter
 •	Internet Service Provider (ISP)
 Overview
+<img width="879" height="500" alt="image" src="https://github.com/user-attachments/assets/bb381e2e-879e-4e6c-b37c-c3bd3ba9bf65" />
+
 Screenshot 1.1
  
 Considering Screenshot 1.1, which illustrates the type of network Annie’s home has:
